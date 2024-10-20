@@ -1,0 +1,9 @@
+[package]
+name = "aoc2022"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+aoc-runner = "*"
+aoc-runner-derive = "*"
+common = { path = "../common" }
